@@ -7886,6 +7886,9 @@ button.close {
     .visible-xs-inline {
         display: inline !important
     }
+    .img-responsive {
+        display: inline-block;
+    }
 }
 
 @media (max-width:767px) {
